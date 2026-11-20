@@ -1,0 +1,1 @@
+{"name":"robohaven-integration-tests","private":true,"type":"module","scripts":{"test":"node --test concurrency.test.mjs","browser":"node --test browser.test.mjs"},"devDependencies":{"pg":"^8.23.1","playwright":"1.65.1"}}
